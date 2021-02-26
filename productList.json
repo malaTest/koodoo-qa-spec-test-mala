@@ -1,0 +1,32 @@
+[
+    {
+        "productId":1,
+        "repaymentType":"repayment",
+        "interestRate":2.45
+    },
+    {
+        "productId":2,
+        "repaymentType":"interest-only",
+        "interestRate":1.32
+    },
+    {
+        "productId":3,
+        "repaymentType":"interest-only",
+        "interestRate":2.1
+    },
+    {
+        "productId":4,
+        "repaymentType":"repayment",
+        "interestRate":3.1
+    },
+    {
+        "productId":5,
+        "repaymentType":"repayment",
+        "interestRate":1.66
+    },
+    {
+        "productId":6,
+        "repaymentType":"interest-only",
+        "interestRate":1.1
+    }
+]
